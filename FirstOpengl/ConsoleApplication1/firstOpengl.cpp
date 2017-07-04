@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 	glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(400, 400);
-	glutCreateWindow("第一个OpenGL程序");
+	glutCreateWindow("why is error code");
 	glutDisplayFunc(&myDisplay);
 	glutMainLoop();
 	return 0;
