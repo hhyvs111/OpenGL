@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(400, 400);
 	glutCreateWindow("why is error code");
+	glutCreateWindow("beecause this is a bad people");
 	glutDisplayFunc(&myDisplay);
 	glutMainLoop();
 	return 0;
